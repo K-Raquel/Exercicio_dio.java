@@ -1,0 +1,10 @@
+# Pastas do VS Code
+.vscode/
+
+# Arquivos compilados (o que o Java gera sozinho)
+*.class
+bin/
+
+# Arquivos do Sistema
+Thumbs.db
+.DS_Store
